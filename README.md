@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile!
-
-Hi there! I'm **Kseniia Suleimanova**, a passionate **Computer Science** student at **Georgia Tech** passionate about **data science**, **AI**, and **web development**. This page is a collection of my projects.
+Hi there! I'm **Kseniia Suleimanova**, a **Computer Science** student at **Georgia Tech** passionate about **data science**, **AI**, and **web development**. This page is a collection of my projects.
 
 ##  About Me
 
